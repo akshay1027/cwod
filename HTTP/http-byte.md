@@ -5,7 +5,7 @@
 <h4><i>// -v(verbose log) will log the output //<i></h4>
 <br />
 <h4>output log:</h4>
-
+<br />
 <img src="../images/verso_log.png" alt="log"/>
 <br />
 
@@ -15,7 +15,8 @@
 
 <h4><i>//No -v // <i></h4>
 <br />
-<h4>output log:
+<h4>output log: </h4> 
+<br />
 
 <img src="../images/withoutvlog.png" alt="log"/>
 
