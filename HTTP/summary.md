@@ -39,17 +39,20 @@ Further reading
 
 </h3>
 
-Interview Corner
-What is HTTP? Why was it introduced?
+<h1>Interview Corner</h1>
 
-What happens when you type google.com in a browser?
+<h3>What is HTTP? Why was it introduced?</br>
 
-What are the main HTTP verbs/methods?
+What happens when you type google.com in a browser?</br>
 
-What are the different HTTP response codes?
+What are the main HTTP verbs/methods?</br>
 
-What is the difference between HTTP and HTTPS?
+What are the different HTTP response codes?</br>
 
-What is cURL?
+What is the difference between HTTP and HTTPS?</br>
 
-What is Postman used for?
+What is cURL?</br>
+
+What is Postman used for?</br>
+
+</h3>
