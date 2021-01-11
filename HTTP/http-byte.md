@@ -1,16 +1,14 @@
-in linux terminal:
+<h2> curl will mimic the output given by chrome dev tools
 
-// curl will mimic the output given by chrome dev tools //
+<h4>curl -v -X GET http://www.flipkart.com -o flipkart.html
 
-curl -v -X GET http://www.flipkart.com -o flipkart.html
+ <h4><i>// -v(verbose log) will log the output //
 
-// -v(verbose log) will log the output //
-
-output log:
+<h4>output log:
 
 <img src="../images/verso_log.png" alt="log"/>
 
-Note: Unnecessary use of -X or --request, GET is already inferred.
+<h4>Note: Unnecessary use of -X or --request, GET is already inferred.
 % Total % Received % Xferd Average Speed Time Time Time Current
 Dload Upload Total Spent Left Speed
 0 0 0 0 0 0 0 0 --:--:-- --:--:-- --:--:-- 0\* Trying 163.53.76.86:80...
@@ -32,4 +30,4 @@ Dload Upload Total Spent Left Speed
   <
   { [178 bytes data]
   100 178 100 178 0 0 362 0 --:--:-- --:--:-- --:--:-- 362
-* Connection #0 to host www.flipkart.com left intact
+* Connection #0 to host www.flipkart.com left intact </h4>
