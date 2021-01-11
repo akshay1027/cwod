@@ -1,10 +1,13 @@
 <h1>Summary
+
+<hr/><br/>
+
 <h3>HTTP is an application layer protocol that allows transfer of data between machines. Most common use of HTTP is in loading web pages where HTML documents are fetched along with the other resources like images, CSS & JavaScript that it uses.
 
-<br />
+<hr/><br />
 
 HTTP Request Method - used by the system requesting the resource to specify the type of request
-
+<br />
 GET - can be used to fetch web pages
 
 POST - can be used to submit login data
@@ -13,10 +16,10 @@ PUT - can be used to update data
 
 Other HTTP methods are HEAD, DELETE, OPTIONS, CONNECT, TRACE & PATCH
 
-<br />
+<hr /><br />
 
 HTTP Response Status Code - seen in the response message. Used by the system receiving the request, to specify the result of the request.
-
+<br>
 1xx - Informational responses
 
 2xx - Successful responses eg: 200 OK - Request successfully completed
@@ -27,7 +30,7 @@ HTTP Response Status Code - seen in the response message. Used by the system rec
 
 5xx - Server errors
 
-See pointers on Curious Cats questions here
+<hr><br>
 
 Further reading
 
@@ -38,9 +41,10 @@ Further reading
 <a link="https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching">Caching using HTTP </a>
 
 </h3>
+<hr><br>
 
 <h1>Interview Corner</h1>
-
+<br>
 <h3>What is HTTP? Why was it introduced?</br>
 
 What happens when you type google.com in a browser?</br>
