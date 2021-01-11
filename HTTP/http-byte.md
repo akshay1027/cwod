@@ -2,11 +2,14 @@
 
 <h2>curl -v -X GET http://www.flipkart.com -o flipkart.html
 
- <h4><i>// -v(verbose log) will log the output //<i></h4>
-<br /
+<h4><i>// -v(verbose log) will log the output //<i></h4>
+<br />
 <h4>output log:</h4>
 
 <img src="../images/verso_log.png" alt="log"/>
+<br />
+
+<!-- =================================================== -->
 
 <h1>curl -X GET http://www.flipkart.com -o flipkart.html </h1>
 
@@ -15,6 +18,10 @@
 <h4>output log:
 
 <img src="../images/withoutvlog.png" alt="log"/>
+
+<br/>
+
+<!-- =================================================== -->
 
 <h1> status codes: </h1>
 
@@ -26,3 +33,6 @@ HTTP Status Code 410 - Gone.
 HTTP Status Code 500 - Internal Server Error. 
 HTTP Status Code 503 - Service Unavailable.
 </h4>
+<br />
+
+<!-- =================================================== -->
