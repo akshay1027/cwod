@@ -1,10 +1,9 @@
-in linux terminal:
 
-// curl will mimic the output given by chrome dev tools //
+<h3> curl will mimic the output given by chrome dev tools 
 
 curl -v -X GET http://www.flipkart.com -o flipkart.html
 
-// -v(verbose log) will log the output //
+ <i>// -v(verbose log) will log the output //
 
 output log:
 
