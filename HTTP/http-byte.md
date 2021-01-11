@@ -8,6 +8,8 @@ curl -v -X GET http://www.flipkart.com -o flipkart.html
 
 output log:
 
+<img src="../images/verso_log.png" alt="log"/>
+
 Note: Unnecessary use of -X or --request, GET is already inferred.
 % Total % Received % Xferd Average Speed Time Time Time Current
 Dload Upload Total Spent Left Speed
