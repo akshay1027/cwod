@@ -13,7 +13,7 @@
 
 <h1>curl -X GET http://www.flipkart.com -o flipkart.html </h1>
 
-<h4><i>//No -v // </h4>
+<h4><i>//No -v // <i></h4>
 <br />
 <h4>output log:
 
@@ -25,13 +25,13 @@
 
 <h1> status codes: </h1>
 
-<h4> HTTP Status Code 200 - OK.
-HTTP Status Code 301 - Permanent Redirect. 
-HTTP Status Code 302 - Temporary Redirect. 
-HTTP Status Code 404 - Not Found. 
-HTTP Status Code 410 - Gone. 
-HTTP Status Code 500 - Internal Server Error. 
-HTTP Status Code 503 - Service Unavailable.
+<h4> HTTP Status Code 200 - OK. <br />
+HTTP Status Code 301 - Permanent Redirect. <br />
+HTTP Status Code 302 - Temporary Redirect. <br />
+HTTP Status Code 404 - Not Found. <br />
+HTTP Status Code 410 - Gone. <br />
+HTTP Status Code 500 - Internal Server Error. <br />
+HTTP Status Code 503 - Service Unavailable.<br />
 </h4>
 <br />
 
