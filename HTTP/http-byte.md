@@ -1,4 +1,8 @@
+in linux terminal:
+
 curl -v -X GET http://www.flipkart.com -o flipkart.html
+
+output:
 
 TCP_NODELAY set
 
