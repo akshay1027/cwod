@@ -47,7 +47,7 @@ HTTP Response Status Code - seen in the response message. Used by the system rec
 <h1>Interview Corner</h1>
 <br>
 <h3>
-What is HTTP? Why was it introduced?</br>
+What is HTTP? Why was it introduced? </br><br>
 
 What happens when you type google.com in a browser?</br>
 
