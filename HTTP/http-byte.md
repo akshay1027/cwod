@@ -1,13 +1,13 @@
 
-<h3> curl will mimic the output given by chrome dev tools 
+<h2> curl will mimic the output given by chrome dev tools 
 
-curl -v -X GET http://www.flipkart.com -o flipkart.html
+<h4>curl -v -X GET http://www.flipkart.com -o flipkart.html
 
- <i>// -v(verbose log) will log the output //
+ <h4><i>// -v(verbose log) will log the output //
 
-output log:
+<h4>output log:
 
-Note: Unnecessary use of -X or --request, GET is already inferred.
+<h4>Note: Unnecessary use of -X or --request, GET is already inferred.
 % Total % Received % Xferd Average Speed Time Time Time Current
 Dload Upload Total Spent Left Speed
 0 0 0 0 0 0 0 0 --:--:-- --:--:-- --:--:-- 0\* Trying 163.53.76.86:80...
@@ -29,4 +29,4 @@ Dload Upload Total Spent Left Speed
   <
   { [178 bytes data]
   100 178 100 178 0 0 362 0 --:--:-- --:--:-- --:--:-- 362
-* Connection #0 to host www.flipkart.com left intact
+* Connection #0 to host www.flipkart.com left intact </h4>
