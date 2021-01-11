@@ -2,6 +2,7 @@ in linux terminal:
 
 curl -v -X GET http://www.flipkart.com -o flipkart.html
 
+// -v will log the output //
 output log:
 
 Note: Unnecessary use of -X or --request, GET is already inferred.
