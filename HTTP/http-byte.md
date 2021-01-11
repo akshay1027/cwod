@@ -1,6 +1,6 @@
 <h2> curl will mimic the output given by chrome dev tools
 
-<h4>curl -v -X GET http://www.flipkart.com -o flipkart.html
+<h2>curl -v -X GET http://www.flipkart.com -o flipkart.html
 
  <h4><i>// -v(verbose log) will log the output //
 
@@ -8,26 +8,10 @@
 
 <img src="../images/verso_log.png" alt="log"/>
 
-<h4>Note: Unnecessary use of -X or --request, GET is already inferred.
-% Total % Received % Xferd Average Speed Time Time Time Current
-Dload Upload Total Spent Left Speed
-0 0 0 0 0 0 0 0 --:--:-- --:--:-- --:--:-- 0\* Trying 163.53.76.86:80...
+<h2>curl -X GET http://www.flipkart.com -o flipkart.html
 
-- TCP_NODELAY set
-- Connected to www.flipkart.com (163.53.76.86) port 80 (#0)
-  > GET / HTTP/1.1
-  > Host: www.flipkart.com
-  > User-Agent: curl/7.68.0
-  > Accept: _/_
+ <h4><i>//No -v //
 
-* Mark bundle as not supporting multiuse
-  < HTTP/1.1 301 Moved Permanently
-  < Server: nginx
-  < Date: Mon, 11 Jan 2021 18:17:17 GMT
-  < Content-Type: text/html
-  < Content-Length: 178
-  < Location: https://www.flipkart.com/
-  <
-  { [178 bytes data]
-  100 178 100 178 0 0 362 0 --:--:-- --:--:-- --:--:-- 362
-* Connection #0 to host www.flipkart.com left intact </h4>
+<h4>output log:
+
+<img src="../images/withoutvlog.png" alt="log"/>
