@@ -32,13 +32,14 @@ HTTP Response Status Code - seen in the response message. Used by the system rec
 
 <hr><br>
 
-Further reading
+<h1>Further reading<h1>
+<br>
 
-<a link="https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview">An overview of HTTP</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview">An overview of HTTP</a>
 
-<a link="https://www.cloudflare.com/en-in/learning/performance/http2-vs-http1.1/">HTTP/2 vs. HTTP/1.1</a>
+<a href="https://www.cloudflare.com/en-in/learning/performance/http2-vs-http1.1/">HTTP/2 vs. HTTP/1.1</a>
 
-<a link="https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching">Caching using HTTP </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching">Caching using HTTP </a>
 
 </h3>
 <hr><br>
