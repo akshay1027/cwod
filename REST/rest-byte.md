@@ -16,3 +16,11 @@ For an API that needs to take two search parameters - query(city) and location (
 <br />
 <img src="../images/image_4.png" alt="log"/>
 <br />
+
+<br />
+<img src="../images/image_5.png" alt="log"/>
+<br />
+
+<br />
+<img src="../images/image_6.png" alt="log"/>
+<br />
