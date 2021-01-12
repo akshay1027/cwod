@@ -35,9 +35,11 @@ SOAP vs REST<h3>
 
 <hr>
 <h1>Interview Corner<h1>
-
+<br>
 What’s REST and how it differs from GraphQL?
-
+<br>
 What’s an API, how do you ‘hit’ an API? How do you query APIs?
-
+<br>
 What are three things you’ll keep in mind when creating a REST API?
+<br>
+<hr>
