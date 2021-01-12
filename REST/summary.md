@@ -23,13 +23,13 @@ The internet is full of such APIs and the knowledge of APIs will help you utiliz
 <h1>Further Reading<h1>
 
 <h3>Generating Code Snippets using Postman
-
+<br>
 Right way to design REST URL Best Practices 1 and Best Practices 2
-
+<br>
 5 Basic REST API Design Guidelines
-
+<br>
 REST vs GraphQL APIs, the Good, the Bad, the Ugly
-
+<br>
 SOAP vs REST<h3>
 <br>
 
