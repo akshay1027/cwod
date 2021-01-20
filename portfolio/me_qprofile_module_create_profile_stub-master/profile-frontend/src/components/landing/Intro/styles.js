@@ -21,7 +21,7 @@ export const Details = styled.div`
 
   h1 {
     margin-bottom: 2rem;
-    font-size: 26pt; // TODO: change the font size to 36
+    font-size: 30pt; // TODO: change the font size to 36
     color: ${({ theme }) => (theme === "light" ? "#212121" : "#fff")};
 
     @media (max-width: 960px) {
@@ -30,13 +30,13 @@ export const Details = styled.div`
     }
 
     @media (max-width: 680px) {
-      font-size: 30pt;
+      font-size: 26pt;
     }
   }
 
   h4 {
     margin-bottom: 2.5rem;
-    font-size: 32pt;
+    font-size: 26pt;
     font-weight: normal;
     color: ${({ theme }) => (theme === "light" ? "#707070" : "#e6e6e6")};
 
@@ -46,7 +46,7 @@ export const Details = styled.div`
     }
 
     @media (max-width: 680px) {
-      font-size: 26pt;
+      font-size: 22pt;
     }
   }
   .hire-me {
