@@ -20,6 +20,7 @@ export const Projects = () => {
           affiliation: "owner,collaborator",
         },
         headers: {
+            
           Authorization: `token ${process.env.GITHUB_TOKEN}`,
         },
       })
@@ -29,7 +30,7 @@ export const Projects = () => {
           a.stargazers_count < b.stargazers_count ? 1 : -1
         );
         console.log(repoData);
-        repoData = repoData.slice(0, 8);
+        repoData = repoData.slice(0, 9);
         setRepos(repoData);
       })
       .catch((error) => console.log(error));
