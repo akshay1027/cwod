@@ -33,3 +33,4 @@ async function getCommentsByUserId(userId) {
 module.exports = getCommentsByUserId;
 console.log(getCommentsByUserId(1));
 
+
